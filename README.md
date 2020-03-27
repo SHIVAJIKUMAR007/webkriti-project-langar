@@ -11,13 +11,43 @@ If customer is not satisfied with us than he may also massage us from facebook, 
 
 there is also a loophole that you cann't order form two diffrent reataurant in a single order, but it is also nessesary from the website manager point of view. Beacause if it happen than there will arise many problem which the website manager have to face. like : distribution of money and delivery boy also have to travel to more etc.
 
-here is some of the screenshot of our website. 
-Our website home page
+HERE IS GOOGLE DRIVE LINK FOR THE VIDEO PRESENTATION
 
+
+here is some of the screenshot of our website.
+
+Our website home page when the user is not login               
+https://1.bp.blogspot.com/-4sZIb202SC4/Xn4QugPYI9I/AAAAAAAAALc/hgcIGyEN5SYUoJVqZL6_Ez8qdQKDKYkGgCLcBGAsYHQ/s640/2020-03-27.png
+
+then login page         
+https://1.bp.blogspot.com/-vcnThFtzwEs/Xn4J6qh6GPI/AAAAAAAAAIw/Ujz7JVtezh4JrVFu93OM1TdPfXW0IhtcACLcBGAsYHQ/s320/2020-03-27%2B%25281%2529.png
+
+If new user than signup first        
+https://1.bp.blogspot.com/-OEDinCrBi-8/Xn4KAtJi8rI/AAAAAAAAAJE/UtBcy9KC4bADoHvzqG7p2jNEZg4qRWBpQCLcBGAsYHQ/s320/2020-03-27%2B%25282%2529.png
+
+the home page after login         
 https://1.bp.blogspot.com/-IK9v-tbNrjI/Xn4H2r-YbtI/AAAAAAAAAIc/mBSGFcFDENUP3PM__ogqLl82Lkom5dVRQCLcBGAsYHQ/s320/2020-03-27%2B%25283%2529.png
 
+our restaurants       
+https://1.bp.blogspot.com/-enVyynDsO5M/Xn4LK7hMCWI/AAAAAAAAAJ0/96zVyH2JI2YDr8Pe5YDRLXUfWRhrFhEhwCLcBGAsYHQ/s320/2020-03-27%2B%25284%2529.png
+
+cart      
+https://1.bp.blogspot.com/-saalB6pcy9w/Xn4Krr_2KCI/AAAAAAAAAJo/P9g8_t4xekguO6VM3XNkcFNHSIl5Jha4QCLcBGAsYHQ/s400/2020-03-27%2B%25285%2529.png
+
+https://1.bp.blogspot.com/-HSEBk0DmKLs/Xn4UYAy7k7I/AAAAAAAAAL4/m709l4Pz-oAjccNwsUsXx2Hqp3nCG-45QCLcBGAsYHQ/s640/2020-03-27%2B%25286%2529.png
+
+here is checkout page      
+https://1.bp.blogspot.com/-ReMkI_WdHLo/Xn4LBmhPsqI/AAAAAAAAAJw/WN8YSx7lhWA1wdUL_pbi0tJhkrpH8SdsgCLcBGAsYHQ/s640/2020-03-27%2B%25287%2529.png
+
+my order page contain OTP    
+https://1.bp.blogspot.com/-iIFwWSIsgJw/Xn4PQuKa9tI/AAAAAAAAAK8/19zS1I3Ag0kV5Ws3fYDawDyCxdG2DELiwCLcBGAsYHQ/s640/2020-03-27%2B%25289%2529.png
 
 
+here is restaurant owner page, where he get order and submit OTP                                                                                 
+https://1.bp.blogspot.com/-P69zv2WPopM/Xn4KJ08KcJI/AAAAAAAAAJM/1rgScu8MXrwHrRWbizHf6xFfCJMSG9ccACLcBGAsYHQ/s640/2020-03-27%2B%252811%2529.png
 
+page from where restaurant owner add a new dish                                                                                           
+https://1.bp.blogspot.com/-s6FpbbKA1vI/Xn4Qmu-cjnI/AAAAAAAAALY/J2XhoqFBKzgPxwgApB7QYJ4u0oXbsjZbQCLcBGAsYHQ/s640/2020-03-27%2B%252812%2529.png
 
-
+page at which customer rate                                                                                                                    
+https://1.bp.blogspot.com/-QwNQFSYoNaU/Xn4KDFODgVI/AAAAAAAAAJI/lhVDpPpNTuI3LdCY2RxG0FTiGCHlIWlGgCLcBGAsYHQ/s640/2020-03-27%2B%252813%2529.png
