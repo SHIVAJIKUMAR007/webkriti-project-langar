@@ -12,7 +12,8 @@ If customer is not satisfied with us than he may also massage us from facebook, 
 there is also a loophole that you cann't order form two diffrent reataurant in a single order, but it is also nessesary from the website manager point of view. Beacause if it happen than there will arise many problem which the website manager have to face. like : distribution of money and delivery boy also have to travel to more etc.
 
 here is some of the screenshot of our website. 
-
+Our website home page
+https://1.bp.blogspot.com/-IK9v-tbNrjI/Xn4H2r-YbtI/AAAAAAAAAIc/mBSGFcFDENUP3PM__ogqLl82Lkom5dVRQCLcBGAsYHQ/s320/2020-03-27%2B%25283%2529.png
 
 
 
