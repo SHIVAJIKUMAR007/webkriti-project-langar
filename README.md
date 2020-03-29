@@ -2,9 +2,13 @@
 # webkriti-project-langar
 Langar is a food delivery website, made for webkriti (The contest organized by AASF ABV-IIITM GWALIOR).
 
-LINK OF OUR WEBSITE IS    
-
+LINK OF OUR WEBSITE IS USER SIDE                                                                                                          
 https://langar.000webhostapp.com/
+
+LINK OF RESTAURANT SIDE                                                                                                                         
+https://langar.000webhostapp.com/ro1.php
+https://langar.000webhostapp.com/ro2.php
+https://langar.000webhostapp.com/ro3.php
 
 As it is said it is a online food delivery website, it took order from the customer and give the order to the restaurant. The restaurant send the delivery boy with the order.
 
@@ -16,14 +20,9 @@ If customer is not satisfied with us than he may also massage us from facebook, 
 
 there is also a loophole that you cann't order form two diffrent reataurant in a single order, but it is also nessesary from the website manager point of view. Beacause if it happen than there will arise many problem which the website manager have to face. like : distribution of money and delivery boy also have to travel to more etc.
 
-LINK OF OUR WEBSITE IS    
+HERE IS YOUTUBE LINK FOR THE VIDEO PRESENTATION
 
-https://langar.000webhostapp.com/
-
-HERE IS GOOGLE DRIVE LINK FOR THE VIDEO PRESENTATION
-
-https://drive.google.com/open?id=1ED3wbpJFnPY1I6uSniEuEzuDruPhaTTy
-
+https://youtu.be/595l9LKIUes
 
 here is some of the screenshot of our website.
 
