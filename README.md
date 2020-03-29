@@ -6,9 +6,9 @@ LINK OF OUR WEBSITE IS USER SIDE
 https://langar.000webhostapp.com/
 
 LINK OF RESTAURANT SIDE                                                                                                                         
-https://langar.000webhostapp.com/ro1.php
-https://langar.000webhostapp.com/ro2.php
-https://langar.000webhostapp.com/ro3.php
+1) https://langar.000webhostapp.com/ro1.php                                                                  
+2) https://langar.000webhostapp.com/ro2.php                                                                     
+3) https://langar.000webhostapp.com/ro3.php
 
 As it is said it is a online food delivery website, it took order from the customer and give the order to the restaurant. The restaurant send the delivery boy with the order.
 
