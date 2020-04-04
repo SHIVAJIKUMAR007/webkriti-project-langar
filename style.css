@@ -1,0 +1,27 @@
+p
+{
+color:blue;
+font-size:30px;
+font-weight:bold;
+height:20px;
+}
+table
+{
+border-color:grey;
+}
+h3
+{
+text-decoration:underline;
+text-transform:capitalize;
+}
+h1
+{
+text-transform:uppercase;
+background-color:orange;
+font-style:italic;
+text-shadow:2px 2px 2px red;
+border-style:solid;
+border-width:2px;
+text-align:center;
+border-radius:5px;
+}

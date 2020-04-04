@@ -1,0 +1,95 @@
+.back
+{
+    width:99%;
+    height:700px;
+
+    background-color:rgb(196, 233, 231);
+    border-width: 5px;
+    border-color: rgb(105, 5, 72);
+    border-style: solid;
+    border-radius: 10px;
+    
+}
+.helpimg
+{
+    margin-left: 1em;
+    margin-top: 1em;
+  
+    width: 370px;
+    height:200px;
+    float: left;
+}
+.option1
+{
+    margin-left: 5em;
+    margin-top: 0em;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(131, 128, 120);
+    width: 400px;
+    height:150px;
+    background-color: white;
+    float: left;
+    
+ 
+}
+.option1:hover
+{
+transform: scale(1.2);
+transition: 1s;
+   
+}
+.option2
+{
+   
+    margin-left: 50em;
+    margin-top: 2em;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:rgb(131, 128, 120);
+    width: 400px;
+    height:150px;
+    background-color: white;
+
+}
+.option2:hover
+{
+    transform: scale(1.2);transition: 1s;
+}
+.option3
+{
+    margin-left: 5em;
+    margin-top: 2em;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(131, 128, 120);
+    width: 400px;
+    height:150px;
+    background-color: white;  
+    float: left; 
+   
+}
+.option3:hover
+{
+    transform: scale(1.2);transition: 1s;
+}
+.option4
+{
+    margin-left: 50em;
+    margin-top: 2em;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(131, 128, 120);
+    width: 400px;
+    height:150px;
+    background-color: white;
+  
+}
+.option4:hover
+{
+    transform: scale(1.2);transition: 1s;
+}

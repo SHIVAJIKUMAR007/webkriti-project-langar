@@ -1,0 +1,48 @@
+.background
+{
+    
+    margin: 10px 10px 10px 10px ;
+    height: 600px;
+    width: 1350px;
+    border: 5px solid rgb(17, 101, 179);
+    border-radius: 500px;
+
+    background-color: rgba(24, 25, 26, 0.945);
+    
+}
+.facebook
+{
+    margin-top: 100px;
+    margin-left: 250px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    float: left;
+}
+.tweeter
+{
+    margin-top: 100px;
+    margin-left: 10px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    float: left;
+}
+.linkedin
+{
+    margin-top: 100px;
+    margin-left: 10px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    float: left;
+}
+.whatsapp
+{
+    margin-top: 100px;
+    margin-left: 10px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    float: left;
+}

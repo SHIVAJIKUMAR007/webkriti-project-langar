@@ -1,0 +1,17 @@
+#headbar
+{
+background-image:url("langar9 (1).webp");
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+height:500px;
+}
+p
+{
+font-size:40px;
+}
+a:link
+{
+color:yellow;
+text-decoration:none;
+}
